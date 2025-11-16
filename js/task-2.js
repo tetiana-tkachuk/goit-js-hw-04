@@ -1,0 +1,3 @@
+function calcAverageCalories(days) {
+  return;
+}
